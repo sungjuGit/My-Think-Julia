@@ -1,2 +1,2 @@
 # MyThinkJulia
-Study notes for Think Julia
+Study notes for Think Julia by Ben Lauwens
